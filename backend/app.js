@@ -3,15 +3,16 @@ var express = require('express');
 var path = require('path');
 //Logger that was used for debugging, commented later
 // var logger = require('morgan');
-var mysql = require('mysql');
+// var mysql = require('mysql');
+var mysql = require('mysql2');
 var cors = require('cors');
-var port = 3001
+var port = 3006
 
 //Connection Info
 var con = mysql.createConnection({
   host: 'localhost',
-  user: 'hathalye7',
-  password: 'hrishikesh',
+  user: 'root',
+  password: 'myPass',
   database: 'HMS',
   multipleStatements: true
 });
