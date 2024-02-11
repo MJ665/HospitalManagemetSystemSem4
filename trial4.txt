@@ -1,0 +1,39 @@
+help me to replace it in the data set
+
+Ramesh ->Aishwarya
+Suresh ->Priya
+Rakesh ->Deepika
+Ritesh ->Ananya
+Saurabh ->Neha
+Harish ->Ritu
+Harsh ->Pooja
+Rohit ->Kavita
+Rohan ->Meera
+Rajesh ->Swati
+
+
+
+Aishwarya,female
+Priya,female
+Deepika,female
+Ananya,female
+Neha,female
+Ritu,female
+Pooja,female
+Kavita,female
+Meera,female
+Swati,female
+
+
+
+
+('Aishwarya@gmail.com'.   'Aishwarya.   'Tamil Nadu', 'female'),
+('Priya@gmail.com'.   'Priya.   'Karnataka', 'female'),
+('Deepika@gmail.com'.   'Deepika.   'Maharashtra', 'female'),
+('Ananya@gmail.com'.   'Ananya.   'Gujarat', 'female'),
+('Neha@gmail.com',   Neha', 'Rajisthan', 'female'),
+('Ritu@gmail.com', '  Ritu', 'Maharashtra', 'female'),
+('Pooja@gmail.com', '   Pooja', 'Kerala', 'female'),
+('Kavita@gmail.com', 'p. Kavita', 'Asam', 'female'),
+('Meera@gmail.com', 'p. Meera', 'Gujarat', 'female'),
+('Swati@gmail.com', '  Swati', 'Delhi', 'female');

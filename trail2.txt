@@ -1,0 +1,24 @@
+Aishwarya,female
+Priya,female
+Deepika,female
+Ananya,female
+Neha,female
+Ritu,female
+Pooja,female
+Kavita,female
+Meera,female
+Swati,female
+
+
+
+
+('Aishwarya@gmail.com'.   'Aishwarya.   'Tamil Nadu', 'male'),
+('Priya@gmail.com'.   'Priya.   'Karnataka', 'male'),
+('Deepika@gmail.com'.   'Deepika.   'Maharashtra', 'male'),
+('Ananya@gmail.com'.   'Ananya.   'Gujarat', 'male'),
+('Neha@gmail.com',   Neha', 'Rajisthan', 'male'),
+('Ritu@gmail.com', '  Ritu', 'Maharashtra', 'male'),
+('Pooja@gmail.com', '   Pooja', 'Kerala', 'male'),
+('Kavita@gmail.com', 'p. Kavita', 'Asam', 'male'),
+('Meera@gmail.com', 'p. Meera', 'Gujarat', 'male'),
+('Swati@gmail.com', '  Swati', 'Delhi', 'male');
